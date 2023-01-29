@@ -1,0 +1,22 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "description": "Custom Lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sima2204/custom-lodash.git"
+  },
+  "author": "Vladislav Simuta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sima2204/custom-lodash/issues"
+  },
+  "homepage": "https://github.com/Sima2204/custom-lodash#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
