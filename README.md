@@ -1,2 +1,0 @@
-# custom-lodash
-Custom Lodash
